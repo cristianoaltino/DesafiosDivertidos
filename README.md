@@ -1,2 +1,2 @@
-# Desafios
-Repositório de código divertidos.
+# Desafios Divertidos
+Repositório de código divertidos, aproveita a diversão!
